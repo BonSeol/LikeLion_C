@@ -15,10 +15,11 @@ namespace LikeLion3
             string name = "Character";
             char grade = 'S';
 
-            Console.WriteLine(hp);
-            Console.WriteLine(att);
-            Console.WriteLine(name);
-            Console.WriteLine(grade);
+            Console.WriteLine("캐릭터");
+            Console.WriteLine("공격력 : "+hp);
+            Console.WriteLine("체력 : "+att);
+            Console.WriteLine("이름 : "+name);
+            Console.WriteLine("등급 : "+grade);
 
         }
     }
