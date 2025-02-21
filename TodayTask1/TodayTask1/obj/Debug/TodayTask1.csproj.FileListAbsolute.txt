@@ -1,0 +1,7 @@
+E:\GitHub\LikeLion_C\TodayTask1\TodayTask1\bin\Debug\TodayTask1.exe.config
+E:\GitHub\LikeLion_C\TodayTask1\TodayTask1\bin\Debug\TodayTask1.exe
+E:\GitHub\LikeLion_C\TodayTask1\TodayTask1\bin\Debug\TodayTask1.pdb
+E:\GitHub\LikeLion_C\TodayTask1\TodayTask1\obj\Debug\TodayTask1.csproj.AssemblyReference.cache
+E:\GitHub\LikeLion_C\TodayTask1\TodayTask1\obj\Debug\TodayTask1.csproj.CoreCompileInputs.cache
+E:\GitHub\LikeLion_C\TodayTask1\TodayTask1\obj\Debug\TodayTask1.exe
+E:\GitHub\LikeLion_C\TodayTask1\TodayTask1\obj\Debug\TodayTask1.pdb
