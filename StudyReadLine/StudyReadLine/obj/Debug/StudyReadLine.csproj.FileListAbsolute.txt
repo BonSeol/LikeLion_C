@@ -1,0 +1,7 @@
+E:\GitHub\LikeLion_C\StudyReadLine\StudyReadLine\bin\Debug\StudyReadLine.exe.config
+E:\GitHub\LikeLion_C\StudyReadLine\StudyReadLine\bin\Debug\StudyReadLine.exe
+E:\GitHub\LikeLion_C\StudyReadLine\StudyReadLine\bin\Debug\StudyReadLine.pdb
+E:\GitHub\LikeLion_C\StudyReadLine\StudyReadLine\obj\Debug\StudyReadLine.csproj.AssemblyReference.cache
+E:\GitHub\LikeLion_C\StudyReadLine\StudyReadLine\obj\Debug\StudyReadLine.csproj.CoreCompileInputs.cache
+E:\GitHub\LikeLion_C\StudyReadLine\StudyReadLine\obj\Debug\StudyReadLine.exe
+E:\GitHub\LikeLion_C\StudyReadLine\StudyReadLine\obj\Debug\StudyReadLine.pdb
