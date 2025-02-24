@@ -1,0 +1,7 @@
+E:\GitHub\LikeLion_C\LikeLion8\LikeLion8\obj\Debug\LikeLion8.csproj.AssemblyReference.cache
+E:\GitHub\LikeLion_C\LikeLion8\LikeLion8\obj\Debug\LikeLion8.csproj.CoreCompileInputs.cache
+E:\GitHub\LikeLion_C\LikeLion8\LikeLion8\bin\Debug\LikeLion8.exe.config
+E:\GitHub\LikeLion_C\LikeLion8\LikeLion8\bin\Debug\LikeLion8.exe
+E:\GitHub\LikeLion_C\LikeLion8\LikeLion8\bin\Debug\LikeLion8.pdb
+E:\GitHub\LikeLion_C\LikeLion8\LikeLion8\obj\Debug\LikeLion8.exe
+E:\GitHub\LikeLion_C\LikeLion8\LikeLion8\obj\Debug\LikeLion8.pdb
