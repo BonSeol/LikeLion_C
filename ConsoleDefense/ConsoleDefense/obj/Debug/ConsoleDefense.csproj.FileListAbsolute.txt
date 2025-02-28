@@ -1,0 +1,7 @@
+E:\GitHub\LikeLion_C\ConsoleDefense\ConsoleDefense\bin\Debug\ConsoleDefense.exe.config
+E:\GitHub\LikeLion_C\ConsoleDefense\ConsoleDefense\bin\Debug\ConsoleDefense.exe
+E:\GitHub\LikeLion_C\ConsoleDefense\ConsoleDefense\bin\Debug\ConsoleDefense.pdb
+E:\GitHub\LikeLion_C\ConsoleDefense\ConsoleDefense\obj\Debug\ConsoleDefense.csproj.AssemblyReference.cache
+E:\GitHub\LikeLion_C\ConsoleDefense\ConsoleDefense\obj\Debug\ConsoleDefense.csproj.CoreCompileInputs.cache
+E:\GitHub\LikeLion_C\ConsoleDefense\ConsoleDefense\obj\Debug\ConsoleDefense.exe
+E:\GitHub\LikeLion_C\ConsoleDefense\ConsoleDefense\obj\Debug\ConsoleDefense.pdb
