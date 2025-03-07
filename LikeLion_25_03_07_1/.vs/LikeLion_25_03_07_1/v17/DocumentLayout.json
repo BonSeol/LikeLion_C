@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27E8956B-BF07-47ED-B781-8A46CCA41CCC}|LikeLion_25_03_07_1\\LikeLion_25_03_07_1.csproj|c:\\users\\hjihy\\documents\\github\\likelion_c\\likelion_25_03_07_1\\likelion_25_03_07_1\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E8956B-BF07-47ED-B781-8A46CCA41CCC}|LikeLion_25_03_07_1\\LikeLion_25_03_07_1.csproj|solutionrelative:likelion_25_03_07_1\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E8956B-BF07-47ED-B781-8A46CCA41CCC}|LikeLion_25_03_07_1\\LikeLion_25_03_07_1.csproj|c:\\users\\hjihy\\documents\\github\\likelion_c\\likelion_25_03_07_1\\likelion_25_03_07_1\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E8956B-BF07-47ED-B781-8A46CCA41CCC}|LikeLion_25_03_07_1\\LikeLion_25_03_07_1.csproj|solutionrelative:likelion_25_03_07_1\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E8956B-BF07-47ED-B781-8A46CCA41CCC}|LikeLion_25_03_07_1\\LikeLion_25_03_07_1.csproj|c:\\users\\hjihy\\documents\\github\\likelion_c\\likelion_25_03_07_1\\likelion_25_03_07_1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E8956B-BF07-47ED-B781-8A46CCA41CCC}|LikeLion_25_03_07_1\\LikeLion_25_03_07_1.csproj|solutionrelative:likelion_25_03_07_1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E8956B-BF07-47ED-B781-8A46CCA41CCC}|LikeLion_25_03_07_1\\LikeLion_25_03_07_1.csproj|c:\\users\\hjihy\\documents\\github\\likelion_c\\likelion_25_03_07_1\\likelion_25_03_07_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E8956B-BF07-47ED-B781-8A46CCA41CCC}|LikeLion_25_03_07_1\\LikeLion_25_03_07_1.csproj|solutionrelative:likelion_25_03_07_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E8956B-BF07-47ED-B781-8A46CCA41CCC}|LikeLion_25_03_07_1\\LikeLion_25_03_07_1.csproj|c:\\users\\hjihy\\documents\\github\\likelion_c\\likelion_25_03_07_1\\likelion_25_03_07_1\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E8956B-BF07-47ED-B781-8A46CCA41CCC}|LikeLion_25_03_07_1\\LikeLion_25_03_07_1.csproj|solutionrelative:likelion_25_03_07_1\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E8956B-BF07-47ED-B781-8A46CCA41CCC}|LikeLion_25_03_07_1\\LikeLion_25_03_07_1.csproj|c:\\users\\hjihy\\documents\\github\\likelion_c\\likelion_25_03_07_1\\likelion_25_03_07_1\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E8956B-BF07-47ED-B781-8A46CCA41CCC}|LikeLion_25_03_07_1\\LikeLion_25_03_07_1.csproj|solutionrelative:likelion_25_03_07_1\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\LikeLion_25_03_07_1\\Field.cs",
+              "RelativeDocumentMoniker": "LikeLion_25_03_07_1\\Field.cs",
+              "ToolTip": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\LikeLion_25_03_07_1\\Field.cs",
+              "RelativeToolTip": "LikeLion_25_03_07_1\\Field.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwJYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:08:28.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\LikeLion_25_03_07_1\\Monster.cs",
+              "RelativeDocumentMoniker": "LikeLion_25_03_07_1\\Monster.cs",
+              "ToolTip": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\LikeLion_25_03_07_1\\Monster.cs",
+              "RelativeToolTip": "LikeLion_25_03_07_1\\Monster.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:07:39.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\LikeLion_25_03_07_1\\MainGame.cs",
+              "RelativeDocumentMoniker": "LikeLion_25_03_07_1\\MainGame.cs",
+              "ToolTip": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\LikeLion_25_03_07_1\\MainGame.cs",
+              "RelativeToolTip": "LikeLion_25_03_07_1\\MainGame.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:06:02.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\LikeLion_25_03_07_1\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion_25_03_07_1\\Program.cs",
+              "ToolTip": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\LikeLion_25_03_07_1\\Program.cs",
+              "RelativeToolTip": "LikeLion_25_03_07_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:01:11.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\LikeLion_25_03_07_1\\Player.cs",
+              "RelativeDocumentMoniker": "LikeLion_25_03_07_1\\Player.cs",
+              "ToolTip": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\LikeLion_25_03_07_1\\Player.cs",
+              "RelativeToolTip": "LikeLion_25_03_07_1\\Player.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:02:44.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\LikeLion_25_03_07_1\\INFO.cs",
+              "RelativeDocumentMoniker": "LikeLion_25_03_07_1\\INFO.cs",
+              "ToolTip": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLion_25_03_07_1\\LikeLion_25_03_07_1\\INFO.cs",
+              "RelativeToolTip": "LikeLion_25_03_07_1\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:01:53.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

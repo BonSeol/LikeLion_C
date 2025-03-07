@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLIon_25_03_07_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E357EB75-4587-4794-B7F8-F53536E8F28A}|LikeLIon_25_03_07_3\\LikeLIon_25_03_07_3.csproj|c:\\users\\hjihy\\documents\\github\\likelion_c\\likelion_25_03_07_3\\likelion_25_03_07_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E357EB75-4587-4794-B7F8-F53536E8F28A}|LikeLIon_25_03_07_3\\LikeLIon_25_03_07_3.csproj|solutionrelative:likelion_25_03_07_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLIon_25_03_07_3\\LikeLIon_25_03_07_3\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLIon_25_03_07_3\\Program.cs",
+              "ToolTip": "C:\\Users\\hjihy\\Documents\\GitHub\\LikeLion_C\\LikeLIon_25_03_07_3\\LikeLIon_25_03_07_3\\Program.cs",
+              "RelativeToolTip": "LikeLIon_25_03_07_3\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:33:40.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

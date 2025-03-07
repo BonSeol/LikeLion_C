@@ -1,0 +1,7 @@
+C:\Users\hjihy\Documents\GitHub\LikeLion_C\LikeLion_25_02_26_3\LikeLion_25_02_26_3\bin\Debug\LikeLion_25_02_26_3.exe.config
+C:\Users\hjihy\Documents\GitHub\LikeLion_C\LikeLion_25_02_26_3\LikeLion_25_02_26_3\bin\Debug\LikeLion_25_02_26_3.exe
+C:\Users\hjihy\Documents\GitHub\LikeLion_C\LikeLion_25_02_26_3\LikeLion_25_02_26_3\bin\Debug\LikeLion_25_02_26_3.pdb
+C:\Users\hjihy\Documents\GitHub\LikeLion_C\LikeLion_25_02_26_3\LikeLion_25_02_26_3\obj\Debug\LikeLion_25_02_26_3.csproj.AssemblyReference.cache
+C:\Users\hjihy\Documents\GitHub\LikeLion_C\LikeLion_25_02_26_3\LikeLion_25_02_26_3\obj\Debug\LikeLion_25_02_26_3.csproj.CoreCompileInputs.cache
+C:\Users\hjihy\Documents\GitHub\LikeLion_C\LikeLion_25_02_26_3\LikeLion_25_02_26_3\obj\Debug\LikeLion_25_02_26_3.exe
+C:\Users\hjihy\Documents\GitHub\LikeLion_C\LikeLion_25_02_26_3\LikeLion_25_02_26_3\obj\Debug\LikeLion_25_02_26_3.pdb
